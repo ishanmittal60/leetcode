@@ -20,8 +20,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0063-unique-paths-ii](https://github.com/ishanmittal60/leetcode/tree/master/0063-unique-paths-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/ishanmittal60/leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [0455-assign-cookies](https://github.com/ishanmittal60/leetcode/tree/master/0455-assign-cookies) |
 ## Matrix
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/ishanmittal60/leetcode/tree/master/0063-unique-paths-ii) |
+## Two Pointers
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/ishanmittal60/leetcode/tree/master/0455-assign-cookies) |
+## Greedy
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/ishanmittal60/leetcode/tree/master/0455-assign-cookies) |
+## Sorting
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/ishanmittal60/leetcode/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
