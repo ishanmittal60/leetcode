@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/ishanmittal60/leetcode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/ishanmittal60/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/ishanmittal60/leetcode/tree/master/0494-target-sum) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/ishanmittal60/leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1143-longest-common-subsequence](https://github.com/ishanmittal60/leetcode/tree/master/1143-longest-common-subsequence) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/ishanmittal60/leetcode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 ## Combinatorics
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/ishanmittal60/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/ishanmittal60/leetcode/tree/master/0455-assign-cookies) |
 | [0494-target-sum](https://github.com/ishanmittal60/leetcode/tree/master/0494-target-sum) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/ishanmittal60/leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/ishanmittal60/leetcode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 ## Matrix
 |  |
@@ -41,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/ishanmittal60/leetcode/tree/master/0455-assign-cookies) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/ishanmittal60/leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 ## Sorting
 |  |
 | ------- |
