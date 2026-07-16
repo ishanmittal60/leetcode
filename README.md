@@ -66,5 +66,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0901-online-stock-span](https://github.com/ishanmittal60/leetcode/tree/master/0901-online-stock-span) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ishanmittal60/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+## Design
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/ishanmittal60/leetcode/tree/master/0901-online-stock-span) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/ishanmittal60/leetcode/tree/master/0901-online-stock-span) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/ishanmittal60/leetcode/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
