@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/ishanmittal60/leetcode/tree/master/0062-unique-paths) |
+| [0067-add-binary](https://github.com/ishanmittal60/leetcode/tree/master/0067-add-binary) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/ishanmittal60/leetcode/tree/master/0067-add-binary) |
 | [0115-distinct-subsequences](https://github.com/ishanmittal60/leetcode/tree/master/0115-distinct-subsequences) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ishanmittal60/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1143-longest-common-subsequence](https://github.com/ishanmittal60/leetcode/tree/master/1143-longest-common-subsequence) |
@@ -98,4 +100,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ishanmittal60/leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/ishanmittal60/leetcode/tree/master/0067-add-binary) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/ishanmittal60/leetcode/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
