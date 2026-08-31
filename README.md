@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0322-coin-change](https://github.com/ishanmittal60/leetcode/tree/master/0322-coin-change) |
 | [0841-keys-and-rooms](https://github.com/ishanmittal60/leetcode/tree/master/0841-keys-and-rooms) |
+| [1971-find-if-path-exists-in-graph](https://github.com/ishanmittal60/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ishanmittal60/leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Backtracking
 |  |
@@ -93,15 +94,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0841-keys-and-rooms](https://github.com/ishanmittal60/leetcode/tree/master/0841-keys-and-rooms) |
+| [1971-find-if-path-exists-in-graph](https://github.com/ishanmittal60/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ishanmittal60/leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Union-Find
 |  |
 | ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/ishanmittal60/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ishanmittal60/leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Graph Theory
 |  |
 | ------- |
 | [0841-keys-and-rooms](https://github.com/ishanmittal60/leetcode/tree/master/0841-keys-and-rooms) |
+| [1971-find-if-path-exists-in-graph](https://github.com/ishanmittal60/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ishanmittal60/leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Bit Manipulation
 |  |
