@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/ishanmittal60/leetcode/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
+| [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/ishanmittal60/leetcode/tree/master/1731-the-number-of-employees-which-report-to-each-employee) |
 ## Depth-First Search
 |  |
 | ------- |
