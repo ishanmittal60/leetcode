@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/ishanmittal60/leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0881-boats-to-save-people](https://github.com/ishanmittal60/leetcode/tree/master/0881-boats-to-save-people) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/ishanmittal60/leetcode/tree/master/1547-minimum-cost-to-cut-a-stick) |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/ishanmittal60/leetcode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/ishanmittal60/leetcode/tree/master/2251-number-of-flowers-in-full-bloom) |
 ## Matrix
 |  |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/ishanmittal60/leetcode/tree/master/0067-add-binary) |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/ishanmittal60/leetcode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 ## Memoization
 |  |
 | ------- |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Ordered Set
 |  |
 | ------- |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/ishanmittal60/leetcode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/ishanmittal60/leetcode/tree/master/2251-number-of-flowers-in-full-bloom) |
 ## Tree
 |  |
@@ -157,4 +160,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/ishanmittal60/leetcode/tree/master/0881-boats-to-save-people) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/ishanmittal60/leetcode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 <!---LeetCode Topics End-->
