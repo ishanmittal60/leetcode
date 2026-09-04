@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/ishanmittal60/leetcode/tree/master/0494-target-sum) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/ishanmittal60/leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/ishanmittal60/leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0881-boats-to-save-people](https://github.com/ishanmittal60/leetcode/tree/master/0881-boats-to-save-people) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/ishanmittal60/leetcode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/ishanmittal60/leetcode/tree/master/2251-number-of-flowers-in-full-bloom) |
 ## Matrix
@@ -45,15 +46,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/ishanmittal60/leetcode/tree/master/0455-assign-cookies) |
+| [0881-boats-to-save-people](https://github.com/ishanmittal60/leetcode/tree/master/0881-boats-to-save-people) |
 ## Greedy
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/ishanmittal60/leetcode/tree/master/0455-assign-cookies) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/ishanmittal60/leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0881-boats-to-save-people](https://github.com/ishanmittal60/leetcode/tree/master/0881-boats-to-save-people) |
 ## Sorting
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/ishanmittal60/leetcode/tree/master/0455-assign-cookies) |
+| [0881-boats-to-save-people](https://github.com/ishanmittal60/leetcode/tree/master/0881-boats-to-save-people) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/ishanmittal60/leetcode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/ishanmittal60/leetcode/tree/master/2251-number-of-flowers-in-full-bloom) |
 ## String
@@ -149,4 +153,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1376-time-needed-to-inform-all-employees](https://github.com/ishanmittal60/leetcode/tree/master/1376-time-needed-to-inform-all-employees) |
+## Timsort
+|  |
+| ------- |
+| [0881-boats-to-save-people](https://github.com/ishanmittal60/leetcode/tree/master/0881-boats-to-save-people) |
 <!---LeetCode Topics End-->
