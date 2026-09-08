@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/ishanmittal60/leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0881-boats-to-save-people](https://github.com/ishanmittal60/leetcode/tree/master/0881-boats-to-save-people) |
 | [1345-jump-game-iv](https://github.com/ishanmittal60/leetcode/tree/master/1345-jump-game-iv) |
+| [1472-design-browser-history](https://github.com/ishanmittal60/leetcode/tree/master/1472-design-browser-history) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/ishanmittal60/leetcode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/ishanmittal60/leetcode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/ishanmittal60/leetcode/tree/master/2251-number-of-flowers-in-full-bloom) |
@@ -90,11 +91,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0901-online-stock-span](https://github.com/ishanmittal60/leetcode/tree/master/0901-online-stock-span) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ishanmittal60/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1472-design-browser-history](https://github.com/ishanmittal60/leetcode/tree/master/1472-design-browser-history) |
 ## Design
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/ishanmittal60/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0901-online-stock-span](https://github.com/ishanmittal60/leetcode/tree/master/0901-online-stock-span) |
+| [1472-design-browser-history](https://github.com/ishanmittal60/leetcode/tree/master/1472-design-browser-history) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -104,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/ishanmittal60/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0901-online-stock-span](https://github.com/ishanmittal60/leetcode/tree/master/0901-online-stock-span) |
+| [1472-design-browser-history](https://github.com/ishanmittal60/leetcode/tree/master/1472-design-browser-history) |
 ## Database
 |  |
 | ------- |
@@ -172,4 +176,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/ishanmittal60/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/ishanmittal60/leetcode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+## Linked List
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/ishanmittal60/leetcode/tree/master/1472-design-browser-history) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/ishanmittal60/leetcode/tree/master/1472-design-browser-history) |
 <!---LeetCode Topics End-->
