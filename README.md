@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/ishanmittal60/leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/ishanmittal60/leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0881-boats-to-save-people](https://github.com/ishanmittal60/leetcode/tree/master/0881-boats-to-save-people) |
+| [1052-grumpy-bookstore-owner](https://github.com/ishanmittal60/leetcode/tree/master/1052-grumpy-bookstore-owner) |
 | [1345-jump-game-iv](https://github.com/ishanmittal60/leetcode/tree/master/1345-jump-game-iv) |
 | [1425-constrained-subsequence-sum](https://github.com/ishanmittal60/leetcode/tree/master/1425-constrained-subsequence-sum) |
 | [1472-design-browser-history](https://github.com/ishanmittal60/leetcode/tree/master/1472-design-browser-history) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [1052-grumpy-bookstore-owner](https://github.com/ishanmittal60/leetcode/tree/master/1052-grumpy-bookstore-owner) |
 | [1425-constrained-subsequence-sum](https://github.com/ishanmittal60/leetcode/tree/master/1425-constrained-subsequence-sum) |
 ## Monotonic Queue
 |  |
