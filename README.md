@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1425-constrained-subsequence-sum](https://github.com/ishanmittal60/leetcode/tree/master/1425-constrained-subsequence-sum) |
 | [1473-paint-house-iii](https://github.com/ishanmittal60/leetcode/tree/master/1473-paint-house-iii) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/ishanmittal60/leetcode/tree/master/1547-minimum-cost-to-cut-a-stick) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/ishanmittal60/leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ishanmittal60/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Combinatorics
 |  |
@@ -52,11 +53,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/ishanmittal60/leetcode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [2187-minimum-time-to-complete-trips](https://github.com/ishanmittal60/leetcode/tree/master/2187-minimum-time-to-complete-trips) |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/ishanmittal60/leetcode/tree/master/2251-number-of-flowers-in-full-bloom) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/ishanmittal60/leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ishanmittal60/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Matrix
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/ishanmittal60/leetcode/tree/master/0063-unique-paths-ii) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/ishanmittal60/leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Two Pointers
 |  |
 | ------- |
@@ -218,4 +221,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1035-uncrossed-lines](https://github.com/ishanmittal60/leetcode/tree/master/1035-uncrossed-lines) |
+## Bracket Sequences
+|  |
+| ------- |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/ishanmittal60/leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->
