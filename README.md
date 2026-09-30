@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/ishanmittal60/leetcode/tree/master/0455-assign-cookies) |
 | [0494-target-sum](https://github.com/ishanmittal60/leetcode/tree/master/0494-target-sum) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/ishanmittal60/leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0706-design-hashmap](https://github.com/ishanmittal60/leetcode/tree/master/0706-design-hashmap) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/ishanmittal60/leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0881-boats-to-save-people](https://github.com/ishanmittal60/leetcode/tree/master/0881-boats-to-save-people) |
 | [0983-minimum-cost-for-tickets](https://github.com/ishanmittal60/leetcode/tree/master/0983-minimum-cost-for-tickets) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/ishanmittal60/leetcode/tree/master/0295-find-median-from-data-stream) |
+| [0706-design-hashmap](https://github.com/ishanmittal60/leetcode/tree/master/0706-design-hashmap) |
 | [0901-online-stock-span](https://github.com/ishanmittal60/leetcode/tree/master/0901-online-stock-span) |
 | [1472-design-browser-history](https://github.com/ishanmittal60/leetcode/tree/master/1472-design-browser-history) |
 ## Monotonic Stack
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/ishanmittal60/leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0706-design-hashmap](https://github.com/ishanmittal60/leetcode/tree/master/0706-design-hashmap) |
 | [1345-jump-game-iv](https://github.com/ishanmittal60/leetcode/tree/master/1345-jump-game-iv) |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/ishanmittal60/leetcode/tree/master/2251-number-of-flowers-in-full-bloom) |
 ## Binary Search
@@ -199,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0706-design-hashmap](https://github.com/ishanmittal60/leetcode/tree/master/0706-design-hashmap) |
 | [1472-design-browser-history](https://github.com/ishanmittal60/leetcode/tree/master/1472-design-browser-history) |
 ## Doubly-Linked List
 |  |
@@ -225,4 +229,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/ishanmittal60/leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+## Hash Function
+|  |
+| ------- |
+| [0706-design-hashmap](https://github.com/ishanmittal60/leetcode/tree/master/0706-design-hashmap) |
 <!---LeetCode Topics End-->
