@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0543-diameter-of-binary-tree](https://github.com/ishanmittal60/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0841-keys-and-rooms](https://github.com/ishanmittal60/leetcode/tree/master/0841-keys-and-rooms) |
 | [1376-time-needed-to-inform-all-employees](https://github.com/ishanmittal60/leetcode/tree/master/1376-time-needed-to-inform-all-employees) |
 | [1971-find-if-path-exists-in-graph](https://github.com/ishanmittal60/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0543-diameter-of-binary-tree](https://github.com/ishanmittal60/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [1376-time-needed-to-inform-all-employees](https://github.com/ishanmittal60/leetcode/tree/master/1376-time-needed-to-inform-all-employees) |
 ## Timsort
 |  |
@@ -233,4 +235,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0706-design-hashmap](https://github.com/ishanmittal60/leetcode/tree/master/0706-design-hashmap) |
+## Binary Tree
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/ishanmittal60/leetcode/tree/master/0543-diameter-of-binary-tree) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/ishanmittal60/leetcode/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
