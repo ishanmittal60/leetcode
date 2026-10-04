@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/ishanmittal60/leetcode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/ishanmittal60/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/ishanmittal60/leetcode/tree/master/0494-target-sum) |
+| [0678-valid-parenthesis-string](https://github.com/ishanmittal60/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/ishanmittal60/leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0983-minimum-cost-for-tickets](https://github.com/ishanmittal60/leetcode/tree/master/0983-minimum-cost-for-tickets) |
 | [1035-uncrossed-lines](https://github.com/ishanmittal60/leetcode/tree/master/1035-uncrossed-lines) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/ishanmittal60/leetcode/tree/master/0455-assign-cookies) |
+| [0678-valid-parenthesis-string](https://github.com/ishanmittal60/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/ishanmittal60/leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0881-boats-to-save-people](https://github.com/ishanmittal60/leetcode/tree/master/0881-boats-to-save-people) |
 ## Sorting
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/ishanmittal60/leetcode/tree/master/0067-add-binary) |
 | [0115-distinct-subsequences](https://github.com/ishanmittal60/leetcode/tree/master/0115-distinct-subsequences) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/ishanmittal60/leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0678-valid-parenthesis-string](https://github.com/ishanmittal60/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ishanmittal60/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1143-longest-common-subsequence](https://github.com/ishanmittal60/leetcode/tree/master/1143-longest-common-subsequence) |
 ## Breadth-First Search
@@ -108,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0678-valid-parenthesis-string](https://github.com/ishanmittal60/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0901-online-stock-span](https://github.com/ishanmittal60/leetcode/tree/master/0901-online-stock-span) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ishanmittal60/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1472-design-browser-history](https://github.com/ishanmittal60/leetcode/tree/master/1472-design-browser-history) |
@@ -232,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0678-valid-parenthesis-string](https://github.com/ishanmittal60/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/ishanmittal60/leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Hash Function
 |  |
