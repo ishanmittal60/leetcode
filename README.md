@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0983-minimum-cost-for-tickets](https://github.com/ishanmittal60/leetcode/tree/master/0983-minimum-cost-for-tickets) |
 | [1035-uncrossed-lines](https://github.com/ishanmittal60/leetcode/tree/master/1035-uncrossed-lines) |
 | [1052-grumpy-bookstore-owner](https://github.com/ishanmittal60/leetcode/tree/master/1052-grumpy-bookstore-owner) |
+| [1254-number-of-closed-islands](https://github.com/ishanmittal60/leetcode/tree/master/1254-number-of-closed-islands) |
 | [1345-jump-game-iv](https://github.com/ishanmittal60/leetcode/tree/master/1345-jump-game-iv) |
 | [1425-constrained-subsequence-sum](https://github.com/ishanmittal60/leetcode/tree/master/1425-constrained-subsequence-sum) |
 | [1472-design-browser-history](https://github.com/ishanmittal60/leetcode/tree/master/1472-design-browser-history) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/ishanmittal60/leetcode/tree/master/0063-unique-paths-ii) |
+| [1254-number-of-closed-islands](https://github.com/ishanmittal60/leetcode/tree/master/1254-number-of-closed-islands) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/ishanmittal60/leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Two Pointers
 |  |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0322-coin-change](https://github.com/ishanmittal60/leetcode/tree/master/0322-coin-change) |
 | [0841-keys-and-rooms](https://github.com/ishanmittal60/leetcode/tree/master/0841-keys-and-rooms) |
+| [1254-number-of-closed-islands](https://github.com/ishanmittal60/leetcode/tree/master/1254-number-of-closed-islands) |
 | [1345-jump-game-iv](https://github.com/ishanmittal60/leetcode/tree/master/1345-jump-game-iv) |
 | [1376-time-needed-to-inform-all-employees](https://github.com/ishanmittal60/leetcode/tree/master/1376-time-needed-to-inform-all-employees) |
 | [1971-find-if-path-exists-in-graph](https://github.com/ishanmittal60/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
@@ -150,12 +153,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/ishanmittal60/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0841-keys-and-rooms](https://github.com/ishanmittal60/leetcode/tree/master/0841-keys-and-rooms) |
+| [1254-number-of-closed-islands](https://github.com/ishanmittal60/leetcode/tree/master/1254-number-of-closed-islands) |
 | [1376-time-needed-to-inform-all-employees](https://github.com/ishanmittal60/leetcode/tree/master/1376-time-needed-to-inform-all-employees) |
 | [1971-find-if-path-exists-in-graph](https://github.com/ishanmittal60/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ishanmittal60/leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Union-Find
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/ishanmittal60/leetcode/tree/master/1254-number-of-closed-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/ishanmittal60/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ishanmittal60/leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Graph Theory
