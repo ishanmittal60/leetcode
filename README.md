@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/ishanmittal60/leetcode/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/ishanmittal60/leetcode/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
+| [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/ishanmittal60/leetcode/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/ishanmittal60/leetcode/tree/master/1731-the-number-of-employees-which-report-to-each-employee) |
 ## Depth-First Search
 |  |
