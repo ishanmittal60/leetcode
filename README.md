@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/ishanmittal60/leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0926-flip-string-to-monotone-increasing](https://github.com/ishanmittal60/leetcode/tree/master/0926-flip-string-to-monotone-increasing) |
 | [0983-minimum-cost-for-tickets](https://github.com/ishanmittal60/leetcode/tree/master/0983-minimum-cost-for-tickets) |
+| [1027-longest-arithmetic-subsequence](https://github.com/ishanmittal60/leetcode/tree/master/1027-longest-arithmetic-subsequence) |
 | [1035-uncrossed-lines](https://github.com/ishanmittal60/leetcode/tree/master/1035-uncrossed-lines) |
 | [1137-n-th-tribonacci-number](https://github.com/ishanmittal60/leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/ishanmittal60/leetcode/tree/master/1143-longest-common-subsequence) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/ishanmittal60/leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0881-boats-to-save-people](https://github.com/ishanmittal60/leetcode/tree/master/0881-boats-to-save-people) |
 | [0983-minimum-cost-for-tickets](https://github.com/ishanmittal60/leetcode/tree/master/0983-minimum-cost-for-tickets) |
+| [1027-longest-arithmetic-subsequence](https://github.com/ishanmittal60/leetcode/tree/master/1027-longest-arithmetic-subsequence) |
 | [1035-uncrossed-lines](https://github.com/ishanmittal60/leetcode/tree/master/1035-uncrossed-lines) |
 | [1052-grumpy-bookstore-owner](https://github.com/ishanmittal60/leetcode/tree/master/1052-grumpy-bookstore-owner) |
 | [1254-number-of-closed-islands](https://github.com/ishanmittal60/leetcode/tree/master/1254-number-of-closed-islands) |
@@ -199,11 +201,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/ishanmittal60/leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0706-design-hashmap](https://github.com/ishanmittal60/leetcode/tree/master/0706-design-hashmap) |
+| [1027-longest-arithmetic-subsequence](https://github.com/ishanmittal60/leetcode/tree/master/1027-longest-arithmetic-subsequence) |
 | [1345-jump-game-iv](https://github.com/ishanmittal60/leetcode/tree/master/1345-jump-game-iv) |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/ishanmittal60/leetcode/tree/master/2251-number-of-flowers-in-full-bloom) |
 ## Binary Search
 |  |
 | ------- |
+| [1027-longest-arithmetic-subsequence](https://github.com/ishanmittal60/leetcode/tree/master/1027-longest-arithmetic-subsequence) |
 | [2187-minimum-time-to-complete-trips](https://github.com/ishanmittal60/leetcode/tree/master/2187-minimum-time-to-complete-trips) |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/ishanmittal60/leetcode/tree/master/2251-number-of-flowers-in-full-bloom) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ishanmittal60/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
