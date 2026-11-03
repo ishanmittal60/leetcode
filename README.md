@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/ishanmittal60/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ishanmittal60/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1137-n-th-tribonacci-number](https://github.com/ishanmittal60/leetcode/tree/master/1137-n-th-tribonacci-number) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/ishanmittal60/leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3886-sum-of-sortable-integers](https://github.com/ishanmittal60/leetcode/tree/master/3886-sum-of-sortable-integers) |
 ## Dynamic Programming
 |  |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ishanmittal60/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ishanmittal60/leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3665-twisted-mirror-path-count](https://github.com/ishanmittal60/leetcode/tree/master/3665-twisted-mirror-path-count) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/ishanmittal60/leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3886-sum-of-sortable-integers](https://github.com/ishanmittal60/leetcode/tree/master/3886-sum-of-sortable-integers) |
 ## Matrix
 |  |
