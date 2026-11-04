@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/ishanmittal60/leetcode/tree/master/0063-unique-paths-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ishanmittal60/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0228-summary-ranges](https://github.com/ishanmittal60/leetcode/tree/master/0228-summary-ranges) |
+| [0287-find-the-duplicate-number](https://github.com/ishanmittal60/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0322-coin-change](https://github.com/ishanmittal60/leetcode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/ishanmittal60/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/ishanmittal60/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/ishanmittal60/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0295-find-median-from-data-stream](https://github.com/ishanmittal60/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0455-assign-cookies](https://github.com/ishanmittal60/leetcode/tree/master/0455-assign-cookies) |
 | [0881-boats-to-save-people](https://github.com/ishanmittal60/leetcode/tree/master/0881-boats-to-save-people) |
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/ishanmittal60/leetcode/tree/master/0067-add-binary) |
+| [0287-find-the-duplicate-number](https://github.com/ishanmittal60/leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Simulation
 |  |
 | ------- |
@@ -225,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/ishanmittal60/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [1027-longest-arithmetic-subsequence](https://github.com/ishanmittal60/leetcode/tree/master/1027-longest-arithmetic-subsequence) |
 | [2187-minimum-time-to-complete-trips](https://github.com/ishanmittal60/leetcode/tree/master/2187-minimum-time-to-complete-trips) |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/ishanmittal60/leetcode/tree/master/2251-number-of-flowers-in-full-bloom) |
@@ -306,4 +310,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/ishanmittal60/leetcode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/ishanmittal60/leetcode/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/ishanmittal60/leetcode/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
