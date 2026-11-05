@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1027-longest-arithmetic-subsequence](https://github.com/ishanmittal60/leetcode/tree/master/1027-longest-arithmetic-subsequence) |
 | [1035-uncrossed-lines](https://github.com/ishanmittal60/leetcode/tree/master/1035-uncrossed-lines) |
 | [1052-grumpy-bookstore-owner](https://github.com/ishanmittal60/leetcode/tree/master/1052-grumpy-bookstore-owner) |
+| [1146-snapshot-array](https://github.com/ishanmittal60/leetcode/tree/master/1146-snapshot-array) |
 | [1254-number-of-closed-islands](https://github.com/ishanmittal60/leetcode/tree/master/1254-number-of-closed-islands) |
 | [1345-jump-game-iv](https://github.com/ishanmittal60/leetcode/tree/master/1345-jump-game-iv) |
 | [1425-constrained-subsequence-sum](https://github.com/ishanmittal60/leetcode/tree/master/1425-constrained-subsequence-sum) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/ishanmittal60/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0706-design-hashmap](https://github.com/ishanmittal60/leetcode/tree/master/0706-design-hashmap) |
 | [0901-online-stock-span](https://github.com/ishanmittal60/leetcode/tree/master/0901-online-stock-span) |
+| [1146-snapshot-array](https://github.com/ishanmittal60/leetcode/tree/master/1146-snapshot-array) |
 | [1472-design-browser-history](https://github.com/ishanmittal60/leetcode/tree/master/1472-design-browser-history) |
 ## Monotonic Stack
 |  |
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0706-design-hashmap](https://github.com/ishanmittal60/leetcode/tree/master/0706-design-hashmap) |
 | [0873-length-of-longest-fibonacci-subsequence](https://github.com/ishanmittal60/leetcode/tree/master/0873-length-of-longest-fibonacci-subsequence) |
 | [1027-longest-arithmetic-subsequence](https://github.com/ishanmittal60/leetcode/tree/master/1027-longest-arithmetic-subsequence) |
+| [1146-snapshot-array](https://github.com/ishanmittal60/leetcode/tree/master/1146-snapshot-array) |
 | [1345-jump-game-iv](https://github.com/ishanmittal60/leetcode/tree/master/1345-jump-game-iv) |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/ishanmittal60/leetcode/tree/master/2251-number-of-flowers-in-full-bloom) |
 ## Binary Search
@@ -231,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/ishanmittal60/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [1027-longest-arithmetic-subsequence](https://github.com/ishanmittal60/leetcode/tree/master/1027-longest-arithmetic-subsequence) |
+| [1146-snapshot-array](https://github.com/ishanmittal60/leetcode/tree/master/1146-snapshot-array) |
 | [2187-minimum-time-to-complete-trips](https://github.com/ishanmittal60/leetcode/tree/master/2187-minimum-time-to-complete-trips) |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/ishanmittal60/leetcode/tree/master/2251-number-of-flowers-in-full-bloom) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ishanmittal60/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -319,4 +323,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/ishanmittal60/leetcode/tree/master/0287-find-the-duplicate-number) |
+## Persistent Data Structure
+|  |
+| ------- |
+| [1146-snapshot-array](https://github.com/ishanmittal60/leetcode/tree/master/1146-snapshot-array) |
 <!---LeetCode Topics End-->
