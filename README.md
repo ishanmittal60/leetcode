@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/ishanmittal60/leetcode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1882-process-tasks-using-servers](https://github.com/ishanmittal60/leetcode/tree/master/1882-process-tasks-using-servers) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/ishanmittal60/leetcode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
+| [2090-k-radius-subarray-averages](https://github.com/ishanmittal60/leetcode/tree/master/2090-k-radius-subarray-averages) |
 | [2187-minimum-time-to-complete-trips](https://github.com/ishanmittal60/leetcode/tree/master/2187-minimum-time-to-complete-trips) |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/ishanmittal60/leetcode/tree/master/2251-number-of-flowers-in-full-bloom) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/ishanmittal60/leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -296,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1052-grumpy-bookstore-owner](https://github.com/ishanmittal60/leetcode/tree/master/1052-grumpy-bookstore-owner) |
 | [1425-constrained-subsequence-sum](https://github.com/ishanmittal60/leetcode/tree/master/1425-constrained-subsequence-sum) |
+| [2090-k-radius-subarray-averages](https://github.com/ishanmittal60/leetcode/tree/master/2090-k-radius-subarray-averages) |
 ## Monotonic Queue
 |  |
 | ------- |
