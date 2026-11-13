@@ -199,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/ishanmittal60/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0841-keys-and-rooms](https://github.com/ishanmittal60/leetcode/tree/master/0841-keys-and-rooms) |
+| [0979-distribute-coins-in-binary-tree](https://github.com/ishanmittal60/leetcode/tree/master/0979-distribute-coins-in-binary-tree) |
 | [1254-number-of-closed-islands](https://github.com/ishanmittal60/leetcode/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/ishanmittal60/leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/ishanmittal60/leetcode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/ishanmittal60/leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0979-distribute-coins-in-binary-tree](https://github.com/ishanmittal60/leetcode/tree/master/0979-distribute-coins-in-binary-tree) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/ishanmittal60/leetcode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1376-time-needed-to-inform-all-employees](https://github.com/ishanmittal60/leetcode/tree/master/1376-time-needed-to-inform-all-employees) |
 ## Timsort
@@ -323,11 +325,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/ishanmittal60/leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0979-distribute-coins-in-binary-tree](https://github.com/ishanmittal60/leetcode/tree/master/0979-distribute-coins-in-binary-tree) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/ishanmittal60/leetcode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 ## DP on Trees
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/ishanmittal60/leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0979-distribute-coins-in-binary-tree](https://github.com/ishanmittal60/leetcode/tree/master/0979-distribute-coins-in-binary-tree) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/ishanmittal60/leetcode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 ## Enumeration
 |  |
