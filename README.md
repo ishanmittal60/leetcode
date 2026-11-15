@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/ishanmittal60/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ishanmittal60/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1137-n-th-tribonacci-number](https://github.com/ishanmittal60/leetcode/tree/master/1137-n-th-tribonacci-number) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/ishanmittal60/leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/ishanmittal60/leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3886-sum-of-sortable-integers](https://github.com/ishanmittal60/leetcode/tree/master/3886-sum-of-sortable-integers) |
 ## Dynamic Programming
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/ishanmittal60/leetcode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1425-constrained-subsequence-sum](https://github.com/ishanmittal60/leetcode/tree/master/1425-constrained-subsequence-sum) |
 | [1473-paint-house-iii](https://github.com/ishanmittal60/leetcode/tree/master/1473-paint-house-iii) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/ishanmittal60/leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/ishanmittal60/leetcode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/ishanmittal60/leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/ishanmittal60/leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1425-constrained-subsequence-sum](https://github.com/ishanmittal60/leetcode/tree/master/1425-constrained-subsequence-sum) |
 | [1472-design-browser-history](https://github.com/ishanmittal60/leetcode/tree/master/1472-design-browser-history) |
 | [1473-paint-house-iii](https://github.com/ishanmittal60/leetcode/tree/master/1473-paint-house-iii) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/ishanmittal60/leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/ishanmittal60/leetcode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/ishanmittal60/leetcode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1882-process-tasks-using-servers](https://github.com/ishanmittal60/leetcode/tree/master/1882-process-tasks-using-servers) |
@@ -261,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/ishanmittal60/leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/ishanmittal60/leetcode/tree/master/2251-number-of-flowers-in-full-bloom) |
 ## Ordered Set
 |  |
