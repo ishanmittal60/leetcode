@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/ishanmittal60/leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1657-determine-if-two-strings-are-close](https://github.com/ishanmittal60/leetcode/tree/master/1657-determine-if-two-strings-are-close) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/ishanmittal60/leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/ishanmittal60/leetcode/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/ishanmittal60/leetcode/tree/master/3863-minimum-operations-to-sort-a-string) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/ishanmittal60/leetcode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Breadth-First Search
