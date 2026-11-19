@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-n-th-tribonacci-number](https://github.com/ishanmittal60/leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/ishanmittal60/leetcode/tree/master/1143-longest-common-subsequence) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/ishanmittal60/leetcode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/ishanmittal60/leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1425-constrained-subsequence-sum](https://github.com/ishanmittal60/leetcode/tree/master/1425-constrained-subsequence-sum) |
 | [1473-paint-house-iii](https://github.com/ishanmittal60/leetcode/tree/master/1473-paint-house-iii) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/ishanmittal60/leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1254-number-of-closed-islands](https://github.com/ishanmittal60/leetcode/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/ishanmittal60/leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/ishanmittal60/leetcode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/ishanmittal60/leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1376-time-needed-to-inform-all-employees](https://github.com/ishanmittal60/leetcode/tree/master/1376-time-needed-to-inform-all-employees) |
 | [1971-find-if-path-exists-in-graph](https://github.com/ishanmittal60/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 | [2458-height-of-binary-tree-after-subtree-removal-queries](https://github.com/ishanmittal60/leetcode/tree/master/2458-height-of-binary-tree-after-subtree-removal-queries) |
@@ -296,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0979-distribute-coins-in-binary-tree](https://github.com/ishanmittal60/leetcode/tree/master/0979-distribute-coins-in-binary-tree) |
 | [1028-recover-a-tree-from-preorder-traversal](https://github.com/ishanmittal60/leetcode/tree/master/1028-recover-a-tree-from-preorder-traversal) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/ishanmittal60/leetcode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/ishanmittal60/leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1376-time-needed-to-inform-all-employees](https://github.com/ishanmittal60/leetcode/tree/master/1376-time-needed-to-inform-all-employees) |
 | [2458-height-of-binary-tree-after-subtree-removal-queries](https://github.com/ishanmittal60/leetcode/tree/master/2458-height-of-binary-tree-after-subtree-removal-queries) |
 ## Timsort
@@ -357,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0979-distribute-coins-in-binary-tree](https://github.com/ishanmittal60/leetcode/tree/master/0979-distribute-coins-in-binary-tree) |
 | [1028-recover-a-tree-from-preorder-traversal](https://github.com/ishanmittal60/leetcode/tree/master/1028-recover-a-tree-from-preorder-traversal) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/ishanmittal60/leetcode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/ishanmittal60/leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [2458-height-of-binary-tree-after-subtree-removal-queries](https://github.com/ishanmittal60/leetcode/tree/master/2458-height-of-binary-tree-after-subtree-removal-queries) |
 ## DP on Trees
 |  |
@@ -366,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0968-binary-tree-cameras](https://github.com/ishanmittal60/leetcode/tree/master/0968-binary-tree-cameras) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/ishanmittal60/leetcode/tree/master/0979-distribute-coins-in-binary-tree) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/ishanmittal60/leetcode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/ishanmittal60/leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Enumeration
 |  |
 | ------- |
@@ -391,4 +396,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1267-count-servers-that-communicate](https://github.com/ishanmittal60/leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1657-determine-if-two-strings-are-close](https://github.com/ishanmittal60/leetcode/tree/master/1657-determine-if-two-strings-are-close) |
+## Binary Search Tree
+|  |
+| ------- |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/ishanmittal60/leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 <!---LeetCode Topics End-->
