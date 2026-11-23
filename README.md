@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/ishanmittal60/leetcode/tree/master/0494-target-sum) |
 | [0678-valid-parenthesis-string](https://github.com/ishanmittal60/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/ishanmittal60/leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0834-sum-of-distances-in-tree](https://github.com/ishanmittal60/leetcode/tree/master/0834-sum-of-distances-in-tree) |
 | [0873-length-of-longest-fibonacci-subsequence](https://github.com/ishanmittal60/leetcode/tree/master/0873-length-of-longest-fibonacci-subsequence) |
 | [0926-flip-string-to-monotone-increasing](https://github.com/ishanmittal60/leetcode/tree/master/0926-flip-string-to-monotone-increasing) |
 | [0968-binary-tree-cameras](https://github.com/ishanmittal60/leetcode/tree/master/0968-binary-tree-cameras) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/ishanmittal60/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/ishanmittal60/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/ishanmittal60/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
+| [0834-sum-of-distances-in-tree](https://github.com/ishanmittal60/leetcode/tree/master/0834-sum-of-distances-in-tree) |
 | [0841-keys-and-rooms](https://github.com/ishanmittal60/leetcode/tree/master/0841-keys-and-rooms) |
 | [0968-binary-tree-cameras](https://github.com/ishanmittal60/leetcode/tree/master/0968-binary-tree-cameras) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/ishanmittal60/leetcode/tree/master/0979-distribute-coins-in-binary-tree) |
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0834-sum-of-distances-in-tree](https://github.com/ishanmittal60/leetcode/tree/master/0834-sum-of-distances-in-tree) |
 | [0841-keys-and-rooms](https://github.com/ishanmittal60/leetcode/tree/master/0841-keys-and-rooms) |
 | [1971-find-if-path-exists-in-graph](https://github.com/ishanmittal60/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ishanmittal60/leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -295,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/ishanmittal60/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/ishanmittal60/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/ishanmittal60/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
+| [0834-sum-of-distances-in-tree](https://github.com/ishanmittal60/leetcode/tree/master/0834-sum-of-distances-in-tree) |
 | [0968-binary-tree-cameras](https://github.com/ishanmittal60/leetcode/tree/master/0968-binary-tree-cameras) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/ishanmittal60/leetcode/tree/master/0979-distribute-coins-in-binary-tree) |
 | [1028-recover-a-tree-from-preorder-traversal](https://github.com/ishanmittal60/leetcode/tree/master/1028-recover-a-tree-from-preorder-traversal) |
@@ -368,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ishanmittal60/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/ishanmittal60/leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0834-sum-of-distances-in-tree](https://github.com/ishanmittal60/leetcode/tree/master/0834-sum-of-distances-in-tree) |
 | [0968-binary-tree-cameras](https://github.com/ishanmittal60/leetcode/tree/master/0968-binary-tree-cameras) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/ishanmittal60/leetcode/tree/master/0979-distribute-coins-in-binary-tree) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/ishanmittal60/leetcode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
