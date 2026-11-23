@@ -225,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0841-keys-and-rooms](https://github.com/ishanmittal60/leetcode/tree/master/0841-keys-and-rooms) |
 | [0968-binary-tree-cameras](https://github.com/ishanmittal60/leetcode/tree/master/0968-binary-tree-cameras) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/ishanmittal60/leetcode/tree/master/0979-distribute-coins-in-binary-tree) |
+| [1026-maximum-difference-between-node-and-ancestor](https://github.com/ishanmittal60/leetcode/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1028-recover-a-tree-from-preorder-traversal](https://github.com/ishanmittal60/leetcode/tree/master/1028-recover-a-tree-from-preorder-traversal) |
 | [1254-number-of-closed-islands](https://github.com/ishanmittal60/leetcode/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/ishanmittal60/leetcode/tree/master/1267-count-servers-that-communicate) |
@@ -306,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0834-sum-of-distances-in-tree](https://github.com/ishanmittal60/leetcode/tree/master/0834-sum-of-distances-in-tree) |
 | [0968-binary-tree-cameras](https://github.com/ishanmittal60/leetcode/tree/master/0968-binary-tree-cameras) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/ishanmittal60/leetcode/tree/master/0979-distribute-coins-in-binary-tree) |
+| [1026-maximum-difference-between-node-and-ancestor](https://github.com/ishanmittal60/leetcode/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1028-recover-a-tree-from-preorder-traversal](https://github.com/ishanmittal60/leetcode/tree/master/1028-recover-a-tree-from-preorder-traversal) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/ishanmittal60/leetcode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/ishanmittal60/leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
@@ -368,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/ishanmittal60/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0968-binary-tree-cameras](https://github.com/ishanmittal60/leetcode/tree/master/0968-binary-tree-cameras) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/ishanmittal60/leetcode/tree/master/0979-distribute-coins-in-binary-tree) |
+| [1026-maximum-difference-between-node-and-ancestor](https://github.com/ishanmittal60/leetcode/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1028-recover-a-tree-from-preorder-traversal](https://github.com/ishanmittal60/leetcode/tree/master/1028-recover-a-tree-from-preorder-traversal) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/ishanmittal60/leetcode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/ishanmittal60/leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
