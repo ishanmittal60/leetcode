@@ -210,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/ishanmittal60/leetcode/tree/master/0570-managers-with-at-least-5-direct-reports) |
+| [0626-exchange-seats](https://github.com/ishanmittal60/leetcode/tree/master/0626-exchange-seats) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/ishanmittal60/leetcode/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/ishanmittal60/leetcode/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1633-percentage-of-users-attended-a-contest](https://github.com/ishanmittal60/leetcode/tree/master/1633-percentage-of-users-attended-a-contest) |
